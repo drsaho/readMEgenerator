@@ -1,10 +1,10 @@
 
-# ReadME Generator
+# REadme Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-This code creates readmes quickly
+This code creates readme for developers
 
 ## Table of Contents
 - [Description](#description)
@@ -16,10 +16,10 @@ This code creates readmes quickly
 - [Questions](#questions)
 
 ## Installation
-install node and inquirer
+install node and use npm inquirer
 
 ## Usage
-use to quickly create REadmes
+use it to create a quick readME
 
 ## License
 This project is licensed under the MIT license.
@@ -28,12 +28,12 @@ This project is licensed under the MIT license.
 contribute any guidelines
 
 ## Tests
-test with jest
+test using jest
 
 ## Questions
 For any questions, please contact me with the information below:
 
 GitHub: [drsaho](https://github.com/drsaho)
 
-Email: drsaho2
+Email: drsaho2@yahoo.com
     
